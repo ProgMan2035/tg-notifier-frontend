@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'Roboto';
+  src: url('./assets/fonts/Roboto-VariableFont_wdth,wght.ttf') format('truetype');
+  font-style: normal;
+  font-weight: 400;
+  font-variation-settings: 'wght' 400;
+}
+
+@font-face {
+  font-family: 'Roboto';
+  src: url('./assets/fonts/Roboto-VariableFont_wdth,wght.ttf') format('truetype');
+  font-style: semibold;
+  font-weight: 600;
+  font-variation-settings: 'wght' 600;
+}

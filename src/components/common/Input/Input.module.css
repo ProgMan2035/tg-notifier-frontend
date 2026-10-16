@@ -1,0 +1,20 @@
+.input {
+  width: 100%;
+  font-size: 16px;
+  outline: none;
+  border: none;
+}
+
+.input::placeholder {
+  color: var(--placeholder-color);
+}
+
+.input.surface {
+  background-color: var(--surface-color);
+  color: var(--white);
+}
+
+.input.primary {
+  background-color: var(--background-color);
+  color: var(--white);
+}
