@@ -10,7 +10,7 @@ TG Notifier
 1. Скопировать репозиторий.
 
 ```
-git clone git@github.com:ProgMan2035/tg-notifier.git
+git clone https://github.com/ProgMan2035/tg-notifier-frontend.git
 ```
 
 2. Собрать и запустить.
